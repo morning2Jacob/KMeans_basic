@@ -7,6 +7,8 @@ Reference website:
 
 (2) https://stackoverflow.com/questions/45704226/what-does-the-fit-method-in-scikit-learn-do
 
+(3) https://www.kaggle.com/questions-and-answers/49890
+
 Data source from:
 
 https://www.kaggle.com/code/shrutimechlearn/step-by-step-kmeans-explained-in-detail/data
