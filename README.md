@@ -3,7 +3,7 @@ With the same data as the last repository. I grouped the data by K-means cluster
 
 Reference website:
 
-(1) https://www.kaggle.com/code/anu1312/rfm-segmentation-and-k-means-clustering
+(1) https://www.analyticsvidhya.com/blog/2021/01/in-depth-intuition-of-k-means-clustering-algorithm-in-machine-learning/
 
 (2) https://stackoverflow.com/questions/45704226/what-does-the-fit-method-in-scikit-learn-do
 
